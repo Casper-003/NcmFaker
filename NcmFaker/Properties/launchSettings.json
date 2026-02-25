@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NcmFaker (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NcmFaker (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>E:\Files\桌面\PENUP_20260221_215421.png</Source>
+    <SmallTileSource>E:\Files\桌面\PENUP_20260221_215421.png</SmallTileSource>
+    <MediumTileSource>E:\Files\桌面\PENUP_20260221_215421.png</MediumTileSource>
+    <WideTileSource>E:\Files\桌面\PENUP_20260221_215421.png</WideTileSource>
+    <LargeTileSource>E:\Files\桌面\PENUP_20260221_215421.png</LargeTileSource>
+    <AppIconSource>E:\Files\桌面\PENUP_20260221_215421.png</AppIconSource>
+    <SplashScreenSource>E:\Files\桌面\PENUP_20260221_215421.png</SplashScreenSource>
+    <PackageLogoSource>E:\Files\桌面\PENUP_20260221_215421.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <_LastSelectedProfileId>E:\Files\文档\Visual Studio 2026\NcmFaker\NcmFaker\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+    <ActiveDebugProfile>NcmFaker (Package)</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+    <Page Update="Views\AboutPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LrcPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\FileConvertPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
