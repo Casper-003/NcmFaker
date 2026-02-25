@@ -1,4 +1,4 @@
-# Aura Audio (原 NcmFaker)
+# NcmFaker
 
 一款基于 WinUI 3 构建的现代化、高性能本地音频处理工具。
 
