@@ -1,13 +1,13 @@
 # NcmFaker
 
-一款基于 WinUI 3 构建的现代化、高性能本地音频处理工具。
+基于 WinUI 3 构建的本地音频处理工具。
 
 ---
 
-##  功能特性
+##  功能
 
 - **极速转换**：快速转换 NCM 格式音频。
-- **智能匹配**：自动获取高精度 Lrc 歌词及专辑封面。
+- **智能匹配**：自动获取 Lrc 歌词及专辑封面。
 - **元数据内嵌**：支持将歌词及封面直接写入音频文件。
 - **现代交互**：支持 Mica（云母）视觉效果及深色模式。
 - **自定义配置**：支持任务并发数调节及输出路径管理。
@@ -16,9 +16,9 @@
 
 本项目的开发离不开以下优秀开源项目的支持：
 
-- [libncmdump](https://github.com/taurusxin/ncmdump)：强大的 NCM 文件转换核心。
-- [TagLib-sharp](https://github.com/mono/taglib-sharp)：专业的音频元数据读写库。
-- [Windows App SDK (WinUI 3)](https://github.com/microsoft/microsoft-ui-xaml)：提供现代化的 UI 框架支持。
+- [libncmdump](https://github.com/taurusxin/ncmdump)： NCM 文件转换核心。
+- [TagLib-sharp](https://github.com/mono/taglib-sharp)：音频元数据读写库。
+- [Windows App SDK (WinUI 3)](https://github.com/microsoft/microsoft-ui-xaml)：提供 UI 框架支持。
 
 ##  法律与免责声明
 
@@ -29,7 +29,7 @@
 
 
 ##  软件截图
-- 元数据修补界面
+- 元数据修补
 ![元数据修补界面](https://raw.githubusercontent.com/Casper-003/NcmFaker/refs/heads/main/pic/soft_interface_2.png)
-- 歌词效果展示  软件：[SaltPlayer for Windows](https://apps.microsoft.com/detail/9p42fq0wpqxk?hl=zh-CN&gl=CN)
+- 歌词效果  软件：[SaltPlayer for Windows](https://apps.microsoft.com/detail/9p42fq0wpqxk?hl=zh-CN&gl=CN)
 ![歌词效果界面（软件：SaltPlayer for Windows）](https://raw.githubusercontent.com/Casper-003/NcmFaker/refs/heads/main/pic/Lrc_showcase.png)
