@@ -34,4 +34,4 @@
 - 歌词效果  软件：[SaltPlayer for Windows](https://apps.microsoft.com/detail/9p42fq0wpqxk?hl=zh-CN&gl=CN)
 ![歌词效果界面（软件：SaltPlayer for Windows）](https://raw.githubusercontent.com/Casper-003/NcmFaker/refs/heads/main/pic/Lrc_showcase.png)
 
-*Developed with ❤️ by Casper-003*
+*Developed with ❤️ by Casper-003 & Google Gemini*
